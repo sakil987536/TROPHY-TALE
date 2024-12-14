@@ -1,0 +1,6 @@
+{
+    "token": "MTMxNzM5MjMzMzExNjgwNTIwMQ.G2eSLu.7KMQUav7HxPWlNX8RFuc14doQfw65H4yVw2QbI",
+    "firebase_credentials": "firebase_credentials.json",
+    "admin_role": "Trophy Tale Management"  // Example: Role to allow admin commands
+  }
+  
